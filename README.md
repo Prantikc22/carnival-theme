@@ -1,2 +1,1 @@
-# carnival-theme
-A Visual Studio Code Extension
+This is a VS Code Dark theme created by Prantik Chatterjee by giving utmost importance to enhanced user experince. Happy Coding!

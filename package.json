@@ -1,0 +1,38 @@
+{
+    "name": "carnival",
+    "displayName": "Carnival",
+    "description": "A dark theme created to give you the best user experince.",
+    "version": "0.0.1",
+    "publisher": "PrantikChatterjee",
+    "engines": {
+        "vscode": "^1.17.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/prantikc22/carnival-theme"
+      },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "Theme",
+        "Dark Theme",
+        "Light Theme",
+        "Night Owl",
+        "Night Theme",
+        "Light Owl",
+        "Snow Owl",
+        "Early Bird",
+        "Accessible Theme"
+      ],
+    "icon": "carnival.png",
+    "contributes": {
+        "themes": [
+            {
+                "label": "Carnival",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Carnival-color-theme.json"
+            }
+        ]
+    }
+}
