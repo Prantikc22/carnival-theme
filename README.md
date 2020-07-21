@@ -1,14 +1,11 @@
 # Carnival 🌌
 
-[![Version](https://vsmarketplacebadge.apphb.com/version/carnival.svg]
-[![Rating](https://vsmarketplacebadge.apphb.com/rating/carnival.svg]
-
 A Visual Studio Code theme for the "believer in you" is out there. Fine-tuned for those of you for whom coding is like a carnival and this extension will add more colors of joy and satisfaction to your dev life. Color choices have taken into consideration what is accessible to people who love to code with a dark theme. Decisions were also based on meaningful contrast for reading comprehension and for optimal razzle dazzle. Happy Coding! ✨
 
 
 ## Carnival
-![Preview](preview.png)
-![JavaScript Preview](jspreview.png)
+![Preview](preview.jpg)
+![JavaScript Preview](jspreview.jpg)
 
 # Installation
 
